@@ -1,0 +1,2 @@
+MSE(mean square error) = summation(1\n(Y-y))^2
+
